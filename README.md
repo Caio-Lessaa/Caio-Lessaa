@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Caio Lessa
+# 👨🏻‍💻 Caio Lessa
 
 **`Desenvolvedor Back-end`**
 
