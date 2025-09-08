@@ -22,7 +22,7 @@ Desenvolvedor back-end em formação, com sede de aprendizado e foco em resultad
 </picture>
 
 ###
-
+<h2 align="left">Stats</h2>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
