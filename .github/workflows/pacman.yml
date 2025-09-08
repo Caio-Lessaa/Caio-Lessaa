@@ -1,29 +1,31 @@
-name: Generate PacMan Contribution Graph
+name: generate animation
 
 on:
   schedule:
     - cron: "0 0 * * *" # roda todo dia à meia-noite
   workflow_dispatch:     # permite rodar manualmente
+  push:
+    branches:
+      - master
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
+      - name: generate pacman contribution grid snake
+        uses: Platane/snk@v3
         with:
-          node-version: 16
+          github_user_name: Caio-Lessaa
+          outputs: |
+            dist/pacman-contribution-graph.svg?palette=github-dark
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark
 
-      - name: Generate PacMan graph
-        run: |
-          npx github-contribution-graph --theme pacman --output-dir ./output
-
-      - name: Push output to branch
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Push generated files
+        uses: crazy-max/ghaction-github-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: ./output
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
