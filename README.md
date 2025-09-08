@@ -15,15 +15,11 @@ Desenvolvedor back-end em formação, com sede de aprendizado e foco em resultad
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Caio-Lessaa&theme=react-dark&area=true" />
-  <source media="(prefers-color-scheme: light)" 
-          srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Caio-Lessaa&theme=react&area=true" />
-  <img alt="pacman contribution graph" 
-       src="https://github-readme-activity-graph.cyclic.app/graph?username=Caio-Lessaa&theme=react&area=true" />
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
-
 
 ###
 
