@@ -18,10 +18,14 @@ Desenvolvedor back-end em formação, com sede de aprendizado e foco em resultad
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Caio-Lessaa/Caio-Lessaa/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Caio-Lessaa/Caio-Lessaa/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Caio-Lessaa/Caio-Lessaa/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Caio-Lessaa&theme=react-dark&area=true" />
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Caio-Lessaa&theme=react&area=true" />
+  <img alt="pacman contribution graph" 
+       src="https://github-readme-activity-graph.cyclic.app/graph?username=Caio-Lessaa&theme=react&area=true" />
 </picture>
+
 
 ###
 
