@@ -26,10 +26,11 @@ Desenvolvedor back-end em formação, com sede de aprendizado e foco em resultad
 </div>
 
 ###
-<h2 align="left">Stats</h2>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Caio-Lessaa&show_total_commits=true&count_private=true&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Caio-Lessaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+<h2 align="left">GitHub Stats</h2>
+<div align="center" style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Caio-Lessaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Caio-Lessaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 ###
@@ -46,9 +47,10 @@ Desenvolvedor back-end em formação, com sede de aprendizado e foco em resultad
 
 ###
 
-<div align="center" style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Caio-Lessaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Caio-Lessaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true" height="150" alt="languages graph" />
+<div align="left">
+  <a href="www.linkedin.com/in/caio-lessaa" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
