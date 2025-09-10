@@ -29,8 +29,8 @@ Desenvolvedor back-end em formação, com sede de aprendizado e foco em resultad
 
 <h2 align="left">GitHub Stats</h2>
 <div align="center" style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Caio-Lessaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Caio-Lessaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Caio-Lessaa&show_icons=true&count_private=true&theme=aura&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Caio-Lessaa&layout=compact&langs_count=5&theme=aura&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 ###
